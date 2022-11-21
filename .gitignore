@@ -1,0 +1,3 @@
+# Ignora el archivo que tiene los tokens:
+tokens.txt
+node_modules
